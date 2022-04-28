@@ -1,0 +1,7 @@
+com/example/unitconversionapi/dto/Request.class
+com/example/unitconversionapi/controller/ConversionController.class
+com/example/unitconversionapi/UnitConversionApiApplication.class
+com/example/unitconversionapi/dto/Response.class
+com/example/unitconversionapi/conversion/ConversionService.class
+com/example/unitconversionapi/conversion/FToCService.class
+com/example/unitconversionapi/conversion/KgToGService.class

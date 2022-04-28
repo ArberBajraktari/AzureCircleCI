@@ -1,0 +1,7 @@
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/UnitConversionApiApplication.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/controller/ConversionController.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/conversion/ConversionService.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/conversion/KgToGService.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/dto/Response.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/conversion/FToCService.java
+/Users/arber/Desktop/ci-cd-examples-wo-configs/src/main/java/com/example/unitconversionapi/dto/Request.java
